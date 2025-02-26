@@ -28,8 +28,9 @@
 
 ## env
 
-DATABASE_URL=postgresql://postgres.xvdjpnadmakjuqqwtnei:Balo@5544@aws-0-eu-central-1.pooler.supabase.com:5432/postgres
-JWT_SECRET=BalogunsundayJWT_Token
+- DATABASE_URL=postgresql://postgres.xvdjpnadmakjuqqwtnei:Balo@5544@aws-0-eu-central-1.pooler.supabase.com:5432/postgres
+
+- JWT_SECRET=BalogunsundayJWT_Token
 
 ## Project setup
 
